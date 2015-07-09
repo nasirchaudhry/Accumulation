@@ -1,0 +1,6 @@
+c:\users\dell user\documents\visual studio 2013\Projects\Accumulation\Accumulation\bin\Debug\Accumulation.exe.config
+c:\users\dell user\documents\visual studio 2013\Projects\Accumulation\Accumulation\bin\Debug\Accumulation.exe
+c:\users\dell user\documents\visual studio 2013\Projects\Accumulation\Accumulation\bin\Debug\Accumulation.pdb
+c:\users\dell user\documents\visual studio 2013\Projects\Accumulation\Accumulation\obj\Debug\Accumulation.exe
+c:\users\dell user\documents\visual studio 2013\Projects\Accumulation\Accumulation\obj\Debug\Accumulation.pdb
+C:\Users\Dell User\Documents\Visual Studio 2013\Projects\Accumulation\Accumulation\obj\Debug\Accumulation.csprojResolveAssemblyReference.cache
